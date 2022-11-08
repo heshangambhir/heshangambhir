@@ -1,7 +1,6 @@
 Hi 👋 My name is Heshan Gambhir
 ===============================
-
-Full Stack Web Developer
+Machine Learning Engineer
 ------------------------
 
 Hello everyone! This is Heshan!!! Welcome to my little corner of the web. I am a focused and enthusiastic teenage developer holding a keen interest in software development and artificial intelligence. By comprehensive exposure to the underlying concepts and applying them vividly to various projects. A passionate individual who thrives on building and applying algorithms to solve real-world problems. What can a “full-stack web developer” do, you ask? I can conjure a website from nothing into existence, fully formed. I do not use tricks, nor is this magic. I specialize in manipulating the very fabric of the web, its raw materials of HTML, CSS, JavaScript, and other languages of my tech stack. Lets Connect!
